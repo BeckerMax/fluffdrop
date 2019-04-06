@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/beckermax/fluffdrop/server"
+	"fluffdrop/server"
 )
 
 func main() {
